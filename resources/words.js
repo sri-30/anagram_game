@@ -1,0 +1,3 @@
+let words = ['california', 'everything', 'aboveboard', 'washington', 'basketball', 'weathering', 'characters', 'literature', 'perfection', 'volleyball', 'depression', 'homecoming', 'technology', 'maleficent', 'watermelon', 'appreciate', 'relaxation', 'convection', 'government', 'abominable', 'salmonella', 'strawberry', 'aberration', 'retirement', 'television', 'contraband', 'alzheimers', 'silhouette', 'friendship', 'loneliness', 'punishment', 'university', 'cinderella', 'confidence', 'restaurant', 'abstinence', 'blancmange', 'blackboard', 'discipline', 'renovation', 'helicopter', 'generation', 'adaptation', 'skateboard', 'lightboard', 'apocalypse', 'understand', 'leadership', 'revolution', 'antarctica'];
+
+export {words}
